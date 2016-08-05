@@ -1,6 +1,8 @@
-# libcurl.cr
+# libcurl.cr [![Build Status](https://travis-ci.org/veelenga/libcurl.cr.svg?branch=master)](https://travis-ci.org/veelenga/libcurl.cr)
 
-Bindings to [libcurl](https://curl.haxx.se/libcurl/)
+Bindings to [libcurl](https://curl.haxx.se/libcurl/). WIP
+
+Originally generated using [crystal_lib](https://github.com/crystal-lang/crystal_lib) and adapted.
 
 ## Installation
 
@@ -19,7 +21,3 @@ dependencies:
 3. Commit your changes (git commit -am 'Add some feature')
 4. Push to the branch (git push origin my-new-feature)
 5. Create a new Pull Request
-
-## Contributors
-
-- [veelenga](https://github.com/veelenga) Vitalii Elenhaupt - creator, maintainer
